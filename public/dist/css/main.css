@@ -1,0 +1,28 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+
+
+.navbar {
+  margin-bottom: 40px;
+}
+
+
+
+.navholder{
+	color: white;
+	top: 6px;
+    position: relative;
+
+}
+
+.navholder:hover{
+	text-decoration: none;
+	color: white;
+}
+
+a>img{
+	    width: 238px;
+}
